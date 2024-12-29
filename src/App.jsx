@@ -10,7 +10,7 @@ import {Hero,
 const App = () => {
     return (
         <main className='relative'>
-            <h1>My React App Test!</h1>
+            <h1>My React App Test 2!</h1>
             {/* <Nav/> */}
             <section className='xl:padding-1 wide:padding-r padding-b'>
                 <Hero />
